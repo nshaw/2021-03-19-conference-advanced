@@ -1,0 +1,6 @@
+code: session-table-widget
+titles:
+  en: Session Table Widget
+  it: Session Table Widget
+group: free
+customUiPath: session-table-widget.ftl

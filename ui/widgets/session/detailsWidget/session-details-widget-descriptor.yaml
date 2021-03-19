@@ -1,0 +1,6 @@
+code: session-details-widget
+titles:
+  en: Session Details Widget
+  it: Session Details Widget
+group: free
+customUiPath: session-details-widget.ftl

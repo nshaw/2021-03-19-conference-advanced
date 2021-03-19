@@ -1,0 +1,6 @@
+code: session-form-widget
+titles:
+  en: Session Form Widget
+  it: Session Form Widget
+group: free
+customUiPath: session-form-widget.ftl
